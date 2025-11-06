@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Interview System
+# 🤖 HireX : AI-Powered Interview System
 
 An intelligent, agentic AI-based interview system that conducts adaptive technical interviews using Groq API, LangChain, and LangGraph.
 
